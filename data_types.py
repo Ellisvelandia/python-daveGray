@@ -135,3 +135,6 @@ print(math.floor(gpa))
 zipcode = "100001"
 zip_value = int(zipcode)
 print(type(zip_value))
+
+# Error if youy attempt to cast incorrect data
+# zip_value = int("New york")
